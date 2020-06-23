@@ -1,20 +1,17 @@
 {
   "deps": [
     {
-      "type": "github",
-      "repo": "sylvanc/peg"
+      "locator": "github.com/sylvanc/peg.git"
     },
     {
-      "type": "github",
-      "repo": "jemc/pony-inspect"
+      "locator": "github.com/teggotic/pony-inspect.git"
     },
     {
-      "type": "github",
-      "repo": "ponylang/glob"
+      "locator": "github.com/ponylang/glob.git"
     },
     {
-      "type": "github",
-      "repo": "ponylang/regex"
+      "locator": "github.com/ponylang/regex.git"
     }
-  ]
+  ],
+  "info" : {}
 }
